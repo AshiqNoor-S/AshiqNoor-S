@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Ashiq Noor
 #### A technopile & coder 
-![A technopile & coder ]
 
 
 Skills:  JS / HTML / CSS / PYTHON / C++ / C
