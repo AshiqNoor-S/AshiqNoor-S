@@ -5,7 +5,7 @@
 
 Skills:  JS / HTML / CSS / PYTHON / C++ / C
 
-- 🔭 I’m currently working on  I’m interested in Full-Stack development , Computer Vision and Cyber Security . 
+- 🔭 I’m interested in Full-Stack development , Computer Vision and Cyber Security . 
 - 🌱 I’m currently learning Front-end development and CV . 
 - 👯 I’m looking to collaborate on Front-end & CV Projects . 
 - 📫 How to reach me: ashiqnoorsudheer@gmail.com 
