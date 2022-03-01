@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ashiq Noor
+### Hi there 👋, My name is Ashiq Noor
 #### A technopile & coder 
 ![A technopile & coder ](https://github.com/AshiqNoor-S/AshiqNoor-S/blob/main/Banner.png)
 
