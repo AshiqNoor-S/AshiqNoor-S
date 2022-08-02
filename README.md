@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashiq Noor Sudheer</h1>
 <h3 align="center">A passionate technophile and coder !!</h3>
 
-<img align="center" src="[https://github-readme-stats.vercel.app/api?username=ashiqnoor-s&show_icons=true&locale=en](https://github.com/AshiqNoor-S/AshiqNoor-S/blob/main/Banner.png)"/>
+<img align="center" src="https://github.com/AshiqNoor-S/AshiqNoor-S/blob/main/Banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqnoor-s&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqnoor-s" /> </p>
 
