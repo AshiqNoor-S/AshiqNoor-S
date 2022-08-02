@@ -11,7 +11,20 @@ Skills:  JS / HTML / CSS / PYTHON / C++ / C
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Be Like a Proton & deal with positivity !! 
 
-
+**Technologies**
+<p>
+<img src="https://github.com/coherencez/tech-logos/blob/master/react.png">
+<img src="https://github.com/coherencez/tech-logos/blob/master/jquery.png">
+<img src="https://github.com/coherencez/tech-logos/blob/master/jslogo.png">
+<img src="https://github.com/coherencez/tech-logos/blob/master/html5.png">
+<img src="https://github.com/coherencez/tech-logos/blob/master/css3.png">
+<img src="https://github.com/coherencez/tech-logos/blob/master/bootstrap.png">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AshiqNoor-S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashi.i.q/)  
 
 
