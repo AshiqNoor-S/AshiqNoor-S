@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashiq Noor Sudheer</h1>
+<h1 align="center">Hi 👋, I'm Ashiq Noor Sudheer<br>![A technopile & coder ](https://github.com/AshiqNoor-S/AshiqNoor-S/blob/main/Banner.png)</h1>
 <h3 align="center">A passionate technophile and coder !!</h3>
 
 ![A technopile & coder ](https://github.com/AshiqNoor-S/AshiqNoor-S/blob/main/Banner.png)
