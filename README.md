@@ -2,12 +2,6 @@
 <h3 align="center">A passionate technophile and coder !!</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqnoor-s&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqnoor-s" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqnoor-s" alt="ashiqnoor-s" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/noor_sudheer" target="blank"><img src="https://img.shields.io/twitter/follow/noor_sudheer?logo=twitter&style=for-the-badge" alt="noor_sudheer" /></a> </p>
-
 - 🔭 I’m currently working on **A blogging website**
 
 - 🌱 I’m currently learning **Full - Stack Web Development**
@@ -22,6 +16,14 @@
 
 - ⚡ Fun fact **If programming is fun then I would like to be funny !!**
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqnoor-s&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqnoor-s" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqnoor-s" alt="ashiqnoor-s" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/noor_sudheer" target="blank"><img src="https://img.shields.io/twitter/follow/noor_sudheer?logo=twitter&style=for-the-badge" alt="noor_sudheer" /></a> </p>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/noor_sudheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noor_sudheer" height="30" width="40" /></a>
