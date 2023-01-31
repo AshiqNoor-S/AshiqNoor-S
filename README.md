@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqnoor-s" alt="ashiqnoor-s" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/noor_sudheer" target="blank"><img src="https://img.shields.io/twitter/follow/noor_sudheer?logo=twitter&style=for-the-badge" alt="noor_sudheer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashiq_n_sudheer" target="blank"><img src="https://img.shields.io/twitter/follow/noor_sudheer?logo=twitter&style=for-the-badge" alt="ashiq_n_sudheer" /></a> </p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
