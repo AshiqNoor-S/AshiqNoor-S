@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **A blogging website**
 
-- 🌱 I’m currently learning **Full - Stack Web Development**
+- 🌱 I’m currently a **Full - Stack Web Developmer**
 
-- 👯 I’m looking to collaborate on **Front-end and CV Projects**
+- 👯 I’m looking to collaborate on **creating websites and AI/ML Projects**
 
-- 🤝 I’m interested in **Full-Stack development , Computer Vision and Cyber Security**
+- 🤝 I’m interested in **Full-Stack development , Computer Vision and AI/ML**
 
-- 💬 Ask me about **Python , JavaScript , jQuery , OOPS & REACT**
+- 💬 Ask me about **Python , JavaScript , jQuery , OOPS & REACT , React**
 
 - 📫 How to reach me **ashiqnoorsudheer@gmail.com**
 
