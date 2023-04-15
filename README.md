@@ -10,7 +10,7 @@
 
 - 🤝 I’m interested in **Full-Stack development , Computer Vision and AI/ML**
 
-- 💬 Ask me about **Python , JavaScript , jQuery , OOPS & REACT , React**
+- 💬 Ask me about **Python,JavaScript,jQuery,OOPS & REACT**
 
 - 📫 How to reach me **ashiqnoorsudheer@gmail.com**
 
