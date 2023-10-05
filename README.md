@@ -2,15 +2,15 @@
 <h3 align="center">A passionate technophile and coder !!</h3>
 
 
-- 🔭 I’m currently working on **A blogging website**
+- 🔭 I’m currently working on **craftersAI**
 
-- 🌱 I’m currently a **Full - Stack Web Developmer**
+- 🌱 I’m currently a **Full - Stack Web Developmer and AI/ML Enthusiast**
 
 - 👯 I’m looking to collaborate on **creating websites and AI/ML Projects**
 
 - 🤝 I’m interested in **Full-Stack development , Computer Vision and AI/ML**
 
-- 💬 Ask me about **Python,JavaScript,jQuery,OOPS & REACT**
+- 💬 Ask me about **MERN Stack, Tensorflow, Python, Keras**
 
 - 📫 How to reach me **ashiqnoorsudheer@gmail.com**
 
