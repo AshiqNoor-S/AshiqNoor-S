@@ -2,7 +2,7 @@
 <h3 align="center">A passionate technophile and coder !!</h3>
 
 
-- 🔭 I’m currently working on **craftersAI**
+- 🔭 I’m a student developer from VIT Chennai
 
 - 🌱 I’m currently a **Full - Stack Web Developmer and AI/ML Enthusiast**
 
